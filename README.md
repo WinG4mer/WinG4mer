@@ -1,4 +1,4 @@
-<h1> 🍃 | Olá! </h1>
+<h1> 🍃 | Olá! Tem maconha ai? </h1>
 
 <p align="left">
    Olá eu sou WinG4merBR(Vitor)! Eu sou o criador da Foxy, atualmente estou estudando C# e pretendo estudar C++
